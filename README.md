@@ -1,5 +1,10 @@
 # Gymnalyst.
 
+<a target="_blank" href="https://colab.research.google.com/github/iSach/gymnalyst/blob/master/basicfit.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 This is a simple and small repo where I store some scripts for analyzing my gym workouts at Basic-Fit. Feel free to use it for your own purposes.
 
 ## Example
